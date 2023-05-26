@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Payment from './pages/payment'
+import Payment from './pages/Payment'
 
 function App() {
 
